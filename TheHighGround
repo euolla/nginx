@@ -1,0 +1,10 @@
+server{
+        listen 8080;
+        root /var/www/TheHighGround/html;
+        index index.html index.htm index.nginx-debian.html;
+
+        server_name obiwan:8080;
+        
+        
+        
+     }     
